@@ -20,7 +20,7 @@
     "anchor-markdown-header": "^0.7.0",
     "htmlparser2": "^7.2.0",
     "minimist": "^1.2.6",
-    "underscore": "^1.13.2",
+    "underscore": "^1.13.6",
     "update-section": "^0.3.3"
   },
   "devDependencies": {
